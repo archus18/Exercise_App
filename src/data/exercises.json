@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Push Ups",
+    "target": "Chest",
+    "equipment": "Bodyweight",
+    "img": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg",
+    "instructions": [
+      "Plank position",
+      "Lower body",
+      "Push up"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Squats",
+    "target": "Quads",
+    "equipment": "Bodyweight",
+    "img": "https://images.pexels.com/photos/2261485/pexels-photo-2261485.jpeg",
+    "instructions": [
+      "Stand straight",
+      "Lower hips",
+      "Rise"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Plank",
+    "target": "Core",
+    "equipment": "Bodyweight",
+    "img": "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg",
+    "instructions": [
+      "Elbows down",
+      "Keep body straight",
+      "Hold"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Lunges",
+    "target": "Legs",
+    "equipment": "Bodyweight",
+    "img": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg",
+    "instructions": [
+      "Step forward",
+      "Lower knee",
+      "Push back"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Bicep Curls",
+    "target": "Biceps",
+    "equipment": "Dumbbell",
+    "img": "https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg",
+    "instructions": [
+      "Hold dumbbells",
+      "Curl up",
+      "Lower slowly"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Tricep Dips",
+    "target": "Triceps",
+    "equipment": "Bench",
+    "img": "https://images.pexels.com/photos/3838937/pexels-photo-3838937.jpeg",
+    "instructions": [
+      "Hands on bench",
+      "Lower body",
+      "Push up"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Shoulder Press",
+    "target": "Shoulders",
+    "equipment": "Dumbbell",
+    "img": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg",
+    "instructions": [
+      "Hold dumbbells",
+      "Press up",
+      "Lower"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Mountain Climbers",
+    "target": "Cardio",
+    "equipment": "Bodyweight",
+    "img": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg",
+    "instructions": [
+      "Plank",
+      "Drive knees",
+      "Fast pace"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Deadlift",
+    "target": "Back",
+    "equipment": "Barbell",
+    "img": "https://images.pexels.com/photos/1552108/pexels-photo-1552108.jpeg",
+    "instructions": [
+      "Grip bar",
+      "Lift",
+      "Lower"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Jumping Jacks",
+    "target": "Full Body",
+    "equipment": "Bodyweight",
+    "img": "https://images.pexels.com/photos/1552248/pexels-photo-1552248.jpeg",
+    "instructions": [
+      "Jump",
+      "Raise arms",
+      "Repeat"
+    ]
+  }
+]
