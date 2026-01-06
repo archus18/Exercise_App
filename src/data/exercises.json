@@ -5,10 +5,11 @@
     "target": "Chest",
     "equipment": "Bodyweight",
     "img": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg",
+    "video": "https://www.youtube.com/embed/IODxDxX7oi4",
     "instructions": [
-      "Plank position",
-      "Lower body",
-      "Push up"
+      "Start in a plank position",
+      "Lower your chest to the floor",
+      "Push back up keeping core tight"
     ]
   },
   {
@@ -17,10 +18,11 @@
     "target": "Quads",
     "equipment": "Bodyweight",
     "img": "https://images.pexels.com/photos/2261485/pexels-photo-2261485.jpeg",
+    "video": "https://www.youtube.com/embed/aclHkVaku9U",
     "instructions": [
-      "Stand straight",
-      "Lower hips",
-      "Rise"
+      "Stand with feet shoulder-width apart",
+      "Lower hips down and back",
+      "Push through heels to stand"
     ]
   },
   {
@@ -29,10 +31,11 @@
     "target": "Core",
     "equipment": "Bodyweight",
     "img": "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg",
+    "video": "https://www.youtube.com/embed/pSHjTRCQxIw",
     "instructions": [
-      "Elbows down",
+      "Place elbows under shoulders",
       "Keep body straight",
-      "Hold"
+      "Hold position while breathing"
     ]
   },
   {
@@ -41,10 +44,11 @@
     "target": "Legs",
     "equipment": "Bodyweight",
     "img": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg",
+    "video": "https://www.youtube.com/embed/QOVaHwm-Q6U",
     "instructions": [
-      "Step forward",
-      "Lower knee",
-      "Push back"
+      "Step forward with one leg",
+      "Lower back knee to ground",
+      "Push back to start position"
     ]
   },
   {
@@ -53,10 +57,11 @@
     "target": "Biceps",
     "equipment": "Dumbbell",
     "img": "https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg",
+    "video": "https://www.youtube.com/embed/in7PaeYlhrM",
     "instructions": [
-      "Hold dumbbells",
-      "Curl up",
-      "Lower slowly"
+      "Hold dumbbells at sides",
+      "Curl weights upward",
+      "Lower slowly with control"
     ]
   },
   {
@@ -65,10 +70,11 @@
     "target": "Triceps",
     "equipment": "Bench",
     "img": "https://images.pexels.com/photos/3838937/pexels-photo-3838937.jpeg",
+    "video": "https://www.youtube.com/embed/6kALZikXxLc",
     "instructions": [
-      "Hands on bench",
-      "Lower body",
-      "Push up"
+      "Hands on bench behind you",
+      "Lower body down",
+      "Push back up"
     ]
   },
   {
@@ -77,10 +83,11 @@
     "target": "Shoulders",
     "equipment": "Dumbbell",
     "img": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg",
+    "video": "https://www.youtube.com/embed/qEwKCR5JCog",
     "instructions": [
-      "Hold dumbbells",
-      "Press up",
-      "Lower"
+      "Hold dumbbells at shoulder height",
+      "Press upward",
+      "Lower slowly"
     ]
   },
   {
@@ -89,10 +96,11 @@
     "target": "Cardio",
     "equipment": "Bodyweight",
     "img": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg",
+    "video": "https://www.youtube.com/embed/cnyTQDSE884",
     "instructions": [
-      "Plank",
-      "Drive knees",
-      "Fast pace"
+      "Start in plank position",
+      "Drive knees toward chest",
+      "Maintain fast pace"
     ]
   },
   {
@@ -101,10 +109,11 @@
     "target": "Back",
     "equipment": "Barbell",
     "img": "https://images.pexels.com/photos/1552108/pexels-photo-1552108.jpeg",
+    "video": "https://www.youtube.com/embed/op9kVnSso6Q",
     "instructions": [
-      "Grip bar",
-      "Lift",
-      "Lower"
+      "Grip barbell firmly",
+      "Lift keeping back straight",
+      "Lower with control"
     ]
   },
   {
@@ -113,10 +122,37 @@
     "target": "Full Body",
     "equipment": "Bodyweight",
     "img": "https://images.pexels.com/photos/1552248/pexels-photo-1552248.jpeg",
+    "video": "https://www.youtube.com/embed/UpH7rm0cYbM",
     "instructions": [
-      "Jump",
-      "Raise arms",
-      "Repeat"
+      "Jump feet apart",
+      "Raise arms overhead",
+      "Return to start"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Burpees",
+    "target": "Full Body",
+    "equipment": "Bodyweight",
+    "img": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg",
+    "video": "https://www.youtube.com/embed/TU8QYVW0gDU",
+    "instructions": [
+      "Drop into squat",
+      "Kick feet back to plank",
+      "Jump explosively upward"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Russian Twists",
+    "target": "Core",
+    "equipment": "Bodyweight",
+    "img": "https://images.pexels.com/photos/3076509/pexels-photo-3076509.jpeg",
+    "video": "https://www.youtube.com/embed/wkD8rjkodUI",
+    "instructions": [
+      "Sit with knees bent",
+      "Twist torso side to side",
+      "Engage core throughout"
     ]
   }
 ]
